@@ -1,0 +1,13 @@
+.cards{
+    display: flex;
+}
+.card{
+    width: 250px;
+    margin: 10px;
+}
+.example-card{
+    background-color: black;
+}
+img{
+    /* width: 100%; */
+}
